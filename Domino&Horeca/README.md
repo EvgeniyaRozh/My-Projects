@@ -24,4 +24,5 @@ ________________________________________________________________________________
 ## **Результат**  
 _________________________________________________________________________________________________________________________________________________________________________
 
-[Дашборд, выполненный в Looker Studio](https://lookerstudio.google.com/reporting/329ffc9f-4e7f-427c-b017-d25a151bca5b)
+[Дашборд, выполненный в Looker Studio](https://lookerstudio.google.com/reporting/329ffc9f-4e7f-427c-b017-d25a151bca5b)  
+[Благодарность от Заказчика](https://github.com/EvgeniyaRozh/My-Projects/blob/main/Domino%26Horeca/%D0%A0%D0%BE%D0%B6%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D1%8F.pdf)
