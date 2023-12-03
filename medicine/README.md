@@ -3,7 +3,7 @@ ________________________________________________________________________________
 
 Настоящий проект имеет целью визуализацию данных [годового отчета главного онколога России](https://oncology-association.ru/wp-content/uploads/2022/05/sostoyanie-onkologicheskoj-pomoshhi-naseleniyu-rossii-v-2021-godu.pdf).
 В перспективе этот проект видится как рейтинг онкологического благополучия Регионов России.
-Таблицы были конвертированы из PDF в Excel, далее [предобработаны на Python](https://github.com/EvgeniyaRozh/My-Projects/blob/main/medicine/health.ipynb) и [визуализированы при помощи DataLens]([https://datalens.yandex.ru/dpzmxrkdj9vo2-dashbord-medicinskih-dannyh)). 
+Таблицы были конвертированы из PDF в Excel, далее [предобработаны на Python](https://github.com/EvgeniyaRozh/My-Projects/blob/main/medicine/health.ipynb) и [визуализированы при помощи DataLens](https://datalens.yandex.ru/dpzmxrkdj9vo2-dashbord-medicinskih-dannyh). 
 
 Для обработки предоставлено 15 таблиц:
 
